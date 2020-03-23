@@ -1,0 +1,15 @@
+com\voverc\provisioning\service\impl\ProvisioningConferenceServiceImpl.class
+com\voverc\provisioning\entity\DeviceModel.class
+com\voverc\provisioning\entity\ProvisioningModel.class
+com\voverc\provisioning\service\impl\PropertiesLoaderImpl.class
+com\voverc\provisioning\ProvisioningApplication.class
+com\voverc\provisioning\entity\Device.class
+com\voverc\provisioning\service\impl\ProvisioningServiceFactory.class
+com\voverc\provisioning\SwaggerConfig.class
+com\voverc\provisioning\controller\ProvisioningController.class
+com\voverc\provisioning\repository\DeviceRepository.class
+com\voverc\provisioning\service\impl\ProvisioningServiceImpl.class
+com\voverc\provisioning\service\PropertiesLoader.class
+com\voverc\provisioning\service\impl\ProvisioningDeskServiceImpl.class
+com\voverc\provisioning\entity\Mappedeble.class
+com\voverc\provisioning\service\ProvisioningService.class
